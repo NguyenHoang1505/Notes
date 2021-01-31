@@ -1,0 +1,5 @@
+In all the true cases:
+Based on the distance or the overlap between the boxes: 
+Based on the size of the box (It may be considered along with the location of the box)
+Based on the rotation of the box.
+The samples are very hard to reject because they are similar to the true cases.
